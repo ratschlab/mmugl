@@ -8,7 +8,7 @@ This is the code repository for MMUGL: *Multi-Modal UMLS Graph Learning*. The fo
 
 ## Demo
 
-You can find a demo showing some of the models predictions here: [https://umcr.ddns.net](https://umcr.ddns.net).
+You can find a demo showing some of the models predictions here: [https://mmugl.dnsalias.org](https://mmugl.dnsalias.org).
 
 ## Setup
 
