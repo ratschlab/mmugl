@@ -4,6 +4,8 @@
 
 This is the code repository for MMUGL: *Multi-Modal UMLS Graph Learning*. The following sections will guide you through the repositories contents.
 
+Paper: https://proceedings.mlr.press/v225/burger23a.html
+
 ![Model Architecture](./images/architecture_wide.png)
 
 ## Demo
@@ -176,3 +178,21 @@ then you can adjust the path at the top of the example shell script and run:
 bash medication_training_example.sh
 ```
 
+## Citation
+
+```bibtex
+@InProceedings{pmlr-v225-burger23a,
+  title = 	 {Multi-modal Graph Learning over UMLS Knowledge Graphs},
+  author =       {Burger, Manuel and R\"atsch, Gunnar and Kuznetsova, Rita},
+  booktitle = 	 {Proceedings of the 3rd Machine Learning for Health Symposium},
+  pages = 	 {52--81},
+  year = 	 {2023},
+  editor = 	 {Hegselmann, Stefan and Parziale, Antonio and Shanmugam, Divya and Tang, Shengpu and Asiedu, Mercy Nyamewaa and Chang, Serina and Hartvigsen, Tom and Singh, Harvineet},
+  volume = 	 {225},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {10 Dec},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v225/burger23a/burger23a.pdf},
+  url = 	 {https://proceedings.mlr.press/v225/burger23a.html}
+}
+```
